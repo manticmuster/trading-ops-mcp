@@ -4,4 +4,7 @@ An MCP server that orchestrates portfolio analytics, trade ledgering and market 
 
 ## Overview
 
-trading-ops-mcp acts as a control and orchestration layer over multiple financial system components
+`trading-ops-mcp` acts as a control and orchestration layer over multiple financial system components:
+- Portfolio risk engine
+- Trade ledger system
+- Market data services
